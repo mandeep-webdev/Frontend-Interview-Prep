@@ -1,0 +1,11 @@
+Problem:
+
+Build a layout like this:
+
+Multiple cards in a row
+Each card:
+Same width
+Same height (even if content differs ❗)
+Cards should:
+Wrap to next line on smaller screens
+Maintain proper spacing between them
